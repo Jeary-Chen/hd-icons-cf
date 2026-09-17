@@ -1,6 +1,6 @@
 # HD Icons — Cloudflare Pages Edition
 
-基于 [xushier/HD-Icons](https://github.com/xushier/HD-Icons) 的 Cloudflare Pages 部署版本。
+基于 [xushier/HD-Icons](https://github.com/xushier/HD-Icons) 的 Cloudflare Pages 部署版本。项目已在“蜂巢@mituprime” 提交认证
 
 **Fork → 连接 Cloudflare → 自动部署**
 
